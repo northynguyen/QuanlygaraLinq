@@ -1,0 +1,310 @@
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.pdb
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.FDangNhap.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.FPhieuThuLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.FThoLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.FCongViecLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.FKhachHangLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.FChiTietHopDongLINQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.FHopDongLINQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.FAdmin.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\LINQ\obj\Debug\LINQ.FTinhNoLinQ.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Hp\Downloads\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Hp\Downloads\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FAdmin.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FChiTietHopDongLINQ.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FCongViecLinQ.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FHopDongLINQ.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FKhachHangLinQ.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FThoLinQ.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FTinhNoLinQ.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.pdb
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FAdmin.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FChiTietHopDongLINQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FCongViecLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FHopDongLINQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FKhachHangLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FThoLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FTinhNoLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.pdb
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FPhieuThuLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FDangKyLinq.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FDangNhapLinq.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.ThongBao.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\LINQ\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FNguoiDung.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FDangKyLinq.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FDangNhapLinq.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FNguoiDung.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FPhieuThuLinQ.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.ThongBao.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FDangKyLich.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FHopDongChuaDuyet.resources
+C:\Users\Hp\Downloads\LINQ\LINQ\obj\Debug\LINQ.FHopDongNguoiDung.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FAdmin.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FChiTietHopDongLINQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FCongViecLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FDangKyLinq.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FDangNhapLinq.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FDangKyLich.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FHopDongChuaDuyet.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FHopDongLINQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FHopDongNguoiDung.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FKhachHangLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FNguoiDung.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FPhieuThuLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FThoLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FTinhNoLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.ThongBao.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.pdb
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\EnvDTE.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\stdole.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FReportLuong.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.CopyComplete
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\final\New folder\LINQ\LINQ\LINQ\obj\Debug\LINQ.FLUONG.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\EnvDTE.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\stdole.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FAdmin.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FChiTietHopDongLINQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FCongViecLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FDangKyLinq.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FDangNhapLinq.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FDangKyLich.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FHopDongChuaDuyet.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FHopDongLINQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FHopDongNguoiDung.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FKhachHangLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FLUONG.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FNguoiDung.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FPhieuThuLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FReportLuong.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FThoLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.FTinhNoLinQ.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.ThongBao.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.csproj.CopyComplete
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.pdb
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.ReportDoanhThu.resources
+D:\TaiLieuHocTap\winform\DO_AN_CUOI_KI\QL_GARA\huhuhhuhu\LINQ\LINQ\obj\Debug\LINQ.DangNhap.ReportHopDong.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\EnvDTE.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\stdole.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.DangNhap.ReportHopDong.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FAdmin.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FChiTietHopDongLINQ.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FCongViecLinQ.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FDangKyLinq.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FDangNhapLinq.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FDangKyLich.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FHopDongChuaDuyet.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FHopDongLINQ.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FHopDongNguoiDung.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FKhachHangLinQ.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FLUONG.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FNguoiDung.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FPhieuThuLinQ.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FReportLuong.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FThoLinQ.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.FTinhNoLinQ.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.ReportDoanhThu.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.ThongBao.resources
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.csproj.CopyComplete
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\PhuongTrinh\Downloads\finalllllll\LINQ\LINQ\obj\Debug\LINQ.pdb

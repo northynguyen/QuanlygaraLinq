@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLGaRa" Class="QLGaraDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-4RL3TO82\PHUNMOC;Initial Catalog=QLGaRa;Integrated Security=True" SettingsObjectName="LINQ.Properties.Settings" SettingsPropertyName="QLGaRaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ADMIN" Member="ADMINs">
+    <Type Name="ADMIN">
+      <Column Name="TenAdmin" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MatKhau" Type="System.String" DbType="NChar(20) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NGUOIDUNG" Member="NGUOIDUNGs">
+    <Type Name="NGUOIDUNG">
+      <Column Name="TenNguoiDung" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="MaKH" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.THO" Member="THOs">
+    <Type Name="THO">
+      <Column Name="MaTho" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenTho" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Nhom" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NhomTruong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="THO_THO" Member="THOs" ThisKey="MaTho" OtherKey="NhomTruong" Type="THO" />
+      <Association Name="THO_THO" Member="THO1" ThisKey="NhomTruong" OtherKey="MaTho" Type="THO" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADMIN" Member="ADMIN1s">
+    <Type Name="ADMIN1">
+      <Column Name="TenAdmin" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MatKhau" Type="System.String" DbType="NChar(20) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CHITIET_HD" Member="CHITIET_HDs">
+    <Type Name="CHITIET_HD">
+      <Column Name="SoHD" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaCV" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TriGiaCV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaTho" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KhoanTho" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="CONGVIEC_CHITIET_HD" Member="CONGVIEC" ThisKey="MaCV" OtherKey="MaCV" Type="CONGVIEC" IsForeignKey="true" />
+      <Association Name="HOPDONG_CHITIET_HD" Member="HOPDONG" ThisKey="SoHD" OtherKey="SoHD" Type="HOPDONG" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CONGVIEC" Member="CONGVIECs">
+    <Type Name="CONGVIEC">
+      <Column Name="MaCV" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NoiDungVC" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TriGiaCV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KhoanTho" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="CONGVIEC_CHITIET_HD" Member="CHITIET_HDs" ThisKey="MaCV" OtherKey="MaCV" Type="CHITIET_HD" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HOPDONG" Member="HOPDONGs">
+    <Type Name="HOPDONG">
+      <Column Name="SoHD" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NgayHD" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="MaKH" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SoXe" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="TriGiaHD" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NgayGiaoDK" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayNgThu" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="HOPDONG_CHITIET_HD" Member="CHITIET_HDs" ThisKey="SoHD" OtherKey="SoHD" Type="CHITIET_HD" />
+      <Association Name="HOPDONG_PHIEUTHU" Member="PHIEUTHUs" ThisKey="SoHD" OtherKey="SoHD" Type="PHIEUTHU" />
+      <Association Name="KHACHHANG_HOPDONG" Member="KHACHHANG" ThisKey="MaKH" OtherKey="MaKH" Type="KHACHHANG" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KHACHHANG" Member="KHACHHANGs">
+    <Type Name="KHACHHANG">
+      <Column Name="MaKH" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenKH" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DienThoai" Type="System.String" DbType="Char(15)" CanBeNull="true" />
+      <Association Name="KHACHHANG_HOPDONG" Member="HOPDONGs" ThisKey="MaKH" OtherKey="MaKH" Type="HOPDONG" />
+      <Association Name="KHACHHANG_PHIEUTHU" Member="PHIEUTHUs" ThisKey="MaKH" OtherKey="MaKH" Type="PHIEUTHU" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NGUOIDUNG" Member="NGUOIDUNG1s">
+    <Type Name="NGUOIDUNG1">
+      <Column Name="TenNguoiDung" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MatKhau" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="MaKH" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PHIEUTHU" Member="PHIEUTHUs">
+    <Type Name="PHIEUTHU">
+      <Column Name="SoPT" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NgayLapPT" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="SoHD" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaKH" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HoTen" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SoTienThu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="KHACHHANG_PHIEUTHU" Member="KHACHHANG" ThisKey="MaKH" OtherKey="MaKH" Type="KHACHHANG" IsForeignKey="true" />
+      <Association Name="HOPDONG_PHIEUTHU" Member="HOPDONG" ThisKey="SoHD" OtherKey="SoHD" Type="HOPDONG" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.THO" Member="THO1s">
+    <Type Name="THO1">
+      <Column Name="MaTho" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenTho" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Nhom" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NhomTruong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="THO1_THO1" Member="THO1s" ThisKey="MaTho" OtherKey="NhomTruong" Type="THO1" />
+      <Association Name="THO1_THO1" Member="THO11" ThisKey="NhomTruong" OtherKey="MaTho" Type="THO1" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
